@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/OneDrive - University of Illinois - Urbana/Academics/Last Semester/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"D:/OneDrive - University of Illinois - Urbana/Academics/Last Semester/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"D:/OneDrive - University of Illinois - Urbana/Academics/Last Semester/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"D:/OneDrive - University of Illinois - Urbana/Academics/Last Semester/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"D:/OneDrive - University of Illinois - Urbana/Academics/Last Semester/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"D:/OneDrive - University of Illinois - Urbana/Academics/Last Semester/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Healthbar.uasset",
+				"D:/OneDrive - University of Illinois - Urbana/Academics/Last Semester/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_healthpack.uasset",
+				"D:/OneDrive - University of Illinois - Urbana/Academics/Last Semester/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HealthPack.uasset",
+				"D:/OneDrive - University of Illinois - Urbana/Academics/Last Semester/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HealthPack2.uasset",
+				"D:/OneDrive - University of Illinois - Urbana/Academics/Last Semester/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/projectile.uasset",
+				"D:/OneDrive - University of Illinois - Urbana/Academics/Last Semester/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/SM_healthpack.uasset"
+			]
+		}
+	]
+}
