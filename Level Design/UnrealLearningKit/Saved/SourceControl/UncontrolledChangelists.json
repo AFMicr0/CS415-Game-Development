@@ -13,12 +13,22 @@
 				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
 				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
 				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/BlockGame/UI/GameOver.uasset",
-				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/BlockGame/Pursuer_AIController.uasset",
 				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/BlockGame/BP_Pursuer.uasset",
 				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
 				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/BlockGame/AI/BP_Pursuer.uasset",
 				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/BlockGame/AI/Pursuer_AIController.uasset",
-				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/BlockGame/AI/EAIState.uasset"
+				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/BlockGame/AI/EAIState.uasset",
+				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/BlockGame/BP_Mortar.uasset",
+				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/BlockGame/BP_Ball.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset",
+				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/CR_Mech_Take2.uasset",
+				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/BlockGame/AI_Mech.uasset",
+				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/BlockGame/ABP_Mech.uasset",
+				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/ControlRig/Characters/Mech/Rigs/CR_Mech.uasset",
+				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/ControlRig/Characters/Mech/Meshes/CrouchedMech.uasset",
+				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/ControlRig/Characters/Mech/Meshes/SK_Mech_Sequence1.uasset",
+				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/BlockGame/BP_Bullet.uasset",
+				"C:/Users/muthuga2/Documents/CS415Unreal/Level Design/UnrealLearningKit/Content/BlockGame/Pursuer_AIController.uasset"
 			]
 		}
 	]
